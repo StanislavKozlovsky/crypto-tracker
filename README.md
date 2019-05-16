@@ -4,7 +4,7 @@
   </p>
 
   <p>
-    <strong>Crypto Live</strong> is a real-time Cryptocurrency tracker using React js + PWA (Progressive Web App)
+    <strong>Crypto Tracker</strong> is a real-time Cryptocurrency tracker using React js + PWA (Progressive Web App)
   </p>
 
   <p>
@@ -17,7 +17,7 @@
   </p>
 
   <p>
-    <a href="https://sksarath.github.io/crypto-live/">
+    <a href="#">
       Demo
     </a>
   </p>
