@@ -1,19 +1,10 @@
 {
-  "files": {
-    "main.css": "/StanislavKozlovsky/crypto-tracker/static/css/main.683ec9b8.chunk.css",
-    "main.js": "/StanislavKozlovsky/crypto-tracker/static/js/main.75fd5755.chunk.js",
-    "main.js.map": "/StanislavKozlovsky/crypto-tracker/static/js/main.75fd5755.chunk.js.map",
-    "runtime~main.js": "/StanislavKozlovsky/crypto-tracker/static/js/runtime~main.6f1879b0.js",
-    "runtime~main.js.map": "/StanislavKozlovsky/crypto-tracker/static/js/runtime~main.6f1879b0.js.map",
-    "static/js/2.b87bb66d.chunk.js": "/StanislavKozlovsky/crypto-tracker/static/js/2.b87bb66d.chunk.js",
-    "static/js/2.b87bb66d.chunk.js.map": "/StanislavKozlovsky/crypto-tracker/static/js/2.b87bb66d.chunk.js.map",
-    "index.html": "/StanislavKozlovsky/crypto-tracker/index.html",
-    "precache-manifest.568d79bb19105cec8b086a7ad1a0ad32.js": "/StanislavKozlovsky/crypto-tracker/precache-manifest.568d79bb19105cec8b086a7ad1a0ad32.js",
-    "service-worker.js": "/StanislavKozlovsky/crypto-tracker/service-worker.js",
-    "static/css/main.683ec9b8.chunk.css.map": "/StanislavKozlovsky/crypto-tracker/static/css/main.683ec9b8.chunk.css.map",
-    "static/media/ATOM.png": "/StanislavKozlovsky/crypto-tracker/static/media/ATOM.a899a586.png",
-    "static/media/MKR.png": "/StanislavKozlovsky/crypto-tracker/static/media/MKR.13adc83f.png",
-    "static/media/github.svg": "/StanislavKozlovsky/crypto-tracker/static/media/github.2d0f3c99.svg",
-    "static/media/linkedin.svg": "/StanislavKozlovsky/crypto-tracker/static/media/linkedin.335ad49f.svg"
-  }
+  "main.css": "static/css/main.ffe224a6.css",
+  "main.css.map": "static/css/main.ffe224a6.css.map",
+  "main.js": "static/js/main.163d6b9f.js",
+  "main.js.map": "static/js/main.163d6b9f.js.map",
+  "static\\media\\ATOM.png": "static/media/ATOM.a899a586.png",
+  "static\\media\\MKR.png": "static/media/MKR.13adc83f.png",
+  "static\\media\\github.svg": "static/media/github.2d0f3c99.svg",
+  "static\\media\\linkedin.svg": "static/media/linkedin.335ad49f.svg"
 }
