@@ -17,7 +17,7 @@
   </p>
 
   <p>
-    <a href="#">
+    <a href="https://stanislavkozlovsky.github.io/crypto-tracker/">
       Demo
     </a>
   </p>
