@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crypto-tracker/static/css/main.a5824f4f.chunk.css",
-    "main.js": "/crypto-tracker/static/js/main.750bc75c.chunk.js",
-    "main.js.map": "/crypto-tracker/static/js/main.750bc75c.chunk.js.map",
+    "main.js": "/crypto-tracker/static/js/main.d7adfd44.chunk.js",
+    "main.js.map": "/crypto-tracker/static/js/main.d7adfd44.chunk.js.map",
     "runtime~main.js": "/crypto-tracker/static/js/runtime~main.62c4ffe5.js",
     "runtime~main.js.map": "/crypto-tracker/static/js/runtime~main.62c4ffe5.js.map",
     "static/js/2.bd1fa328.chunk.js": "/crypto-tracker/static/js/2.bd1fa328.chunk.js",
     "static/js/2.bd1fa328.chunk.js.map": "/crypto-tracker/static/js/2.bd1fa328.chunk.js.map",
     "index.html": "/crypto-tracker/index.html",
-    "precache-manifest.77035c1d87f787446b86b65d402a65c1.js": "/crypto-tracker/precache-manifest.77035c1d87f787446b86b65d402a65c1.js",
+    "precache-manifest.9de3aeb26a9e360528aef1b9ba06e10e.js": "/crypto-tracker/precache-manifest.9de3aeb26a9e360528aef1b9ba06e10e.js",
     "service-worker.js": "/crypto-tracker/service-worker.js",
     "static/css/main.a5824f4f.chunk.css.map": "/crypto-tracker/static/css/main.a5824f4f.chunk.css.map",
     "static/media/ATOM.png": "/crypto-tracker/static/media/ATOM.a899a586.png",
